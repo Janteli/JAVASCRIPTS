@@ -27,3 +27,11 @@ console.log(null > 0) //false
 console.log(null == 0) //false
 console.log(null >= 0) //true
 
+let num1, num2, num3
+
+num1 = num2 = num3 = 2+2
+
+let anum = 100
+console.log(anum++) //postfix 101
+console.log(++anum) //prefix 101
+
