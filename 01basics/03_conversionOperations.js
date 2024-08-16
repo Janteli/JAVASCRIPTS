@@ -23,9 +23,9 @@ let striNumb = String(numb)
 
 console.log("2"> 1) // true coz string 2 gets converted to number itself
 
-console.log(null > 0) //false
-console.log(null == 0) //false
-console.log(null >= 0) //true
+console.log(null > 0) //false comparision > < converts null as 0 so not equal
+console.log(null == 0) //false equality doesnt
+console.log(null >= 0) //true first > converts to 0 so equal
 
 let num1, num2, num3
 
