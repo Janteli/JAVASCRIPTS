@@ -8,6 +8,7 @@
 let book = "Yalambar"
 let age = 18
 let isLoggedIn = false
+
 // PRIMITVE DATA TYPES
 
 // number range 
@@ -22,5 +23,7 @@ let isLoggedIn = false
 console.log(typeof "Ghane")
 
 console.log(typeof null) //-> result object undefined results undefined
+
+
 
 
