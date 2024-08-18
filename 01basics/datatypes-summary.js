@@ -7,3 +7,6 @@
 
 // 2 Non- Primitive- Reference Type
 // Array, Objects, Functions
+
+// Memories Types Stack And Heap
+// Stack (PRimitive ) provides copy changes occurs only in copy Heap(Non Primitive) provides reference changes occurs in original value
