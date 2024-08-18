@@ -33,5 +33,6 @@ num1 = num2 = num3 = 2+2
 
 let anum = 100
 console.log(anum++) //postfix 101
-console.log(++anum) //prefix 101
+console.log(++anum) //prefix 101 Read from Mdn
+// tc39.es/scma262/multipage/abstract-operations.html#sec-type-conversion
 
